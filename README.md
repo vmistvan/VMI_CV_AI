@@ -15,7 +15,7 @@ graph TD
     J --> K[Early 2025: Coding LLMs are incoming! Thinking, reasoning, agents, MCP-s]
     K --> L[Using Windsurf to generate an Authoring tool written in Python]
     L --> M[Generating with Windsurf an Yolo based object detection during az AI hackathon. 3000+ python codelines in 2 days]
-    M --> N[After other tools migrating to Roo Commander to orchestrate the algoritmic part of a Research paper - PhD publication - Projectmanagement support with AI.]    
+    M --> N[After other tools migration to Roo Commander to orchestrate the algoritmic part of a Research paper - PhD publication - Projectmanagement support with AI.]    
 ```
 
 ## More about the AI supported project management research:
