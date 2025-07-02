@@ -3,7 +3,7 @@
 ```mermaid
 graph TD
     A[Sporadic infos about AI since 1995] --> C[First Contact with ChatGPT in 2022]
-    A --> B[Looks to complex without any reachable goals. Abandoned.]
+    A --> B[Looks too complex without any reachable goals. Abandoned.]
     C --> D[Met with other guys, to discuss about the burning hot AI News]
     D --> E[Sensory overload from the news]
     E --> F[Ask for the Starting point - That was the Pytorch Lightning book]
