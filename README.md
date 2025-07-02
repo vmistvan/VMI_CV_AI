@@ -3,16 +3,14 @@
 ```mermaid
 graph TD
     A[Sporadic infos about AI since 1995] --> B[Looks to complex without any reachable goals. Abandoned.]
-    A --> C[First Contact with ChatGPT]
-    C --> D[LangGraph State Management]
-    D --> E[Data Processing Modules]
-    E --> F[PyPDF2]
-    E --> G[pandas/openpyxl]
-    E --> H[FAISS Vector DB]
-    F --> H
-    G --> H
-    H --> I[LLM Integration Layer]
-    I --> C
+    A --> C[First Contact with ChatGPT in 2022]
+    C --> D[Met with other guys, to discuss about the burning hot AI News]
+    D --> E[Sensory overload from the news]
+    E --> F[Ask for the Starting point - That was the Pytorch Lightning book]
+    F --> G[Study of book]
+    G --> F[It was too complicated for just read, so I translated it, for my own AI treasure :) ]
+    G --> H[I restored and developed the mainly outdated and damaged examples: base NN example, Bert, transfer learning, GAN, and so on]
+    H --> I[Deeper understanding of the basic tools, components of AI: NN, Learning rate, Optimalisation, activation, ]
     J[Apache Airflow] --> E
     E --> K[MLflow]
 ```
