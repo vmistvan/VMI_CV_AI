@@ -27,4 +27,7 @@ Because even Windsurf gives a proof about the ability of the LLMs to code AI mod
 - The developer and AI must be at the same knowledge level. Generating an architecture of code, without understand the background increases some "entropy" and finally the code does not meet with the expectation, because the missing requirements are filled with some general practice.
 - Very important part to give a positive feedback to the AI agents.
 
-
+## My public repos about my earlier AI mockups:
+- basic examples of AI models https://github.com/vmistvan/MIA_helyzet 
+- speec recognition https://github.com/vmistvan/speech_recog
+- short voyage into the SB3: https://github.com/vmistvan/SB3_Doc_Hun
