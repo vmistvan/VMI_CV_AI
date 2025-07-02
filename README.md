@@ -9,7 +9,7 @@ graph TD
     E --> F[Ask for the Starting point - That was the Pytorch Lightning book]
     F --> G[Study of book]
     G --> H[It was too complicated for just read, so I translated it, for my own AI treasure]
-    I --> J[I restored and developed the mainly outdated and damaged examples: base NN example, Bert, transfer learning, GAN, and so on]
-    J --> K[Deeper understanding of the basic tools, components of AI: NN, Learning rate, Optimalisation, activation, ]
+    G --> I[I restored and developed the mainly outdated and damaged examples: base NN example, Bert, transfer learning, GAN, and so on]
+    I --> J[Deeper understanding of the basic tools, components of AI: NN, Learning rate, Optimalisation, activation, ]
     
 ```
