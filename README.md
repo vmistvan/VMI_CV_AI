@@ -8,9 +8,8 @@ graph TD
     D --> E[Sensory overload from the news]
     E --> F[Ask for the Starting point - That was the Pytorch Lightning book]
     F --> G[Study of book]
-    G --> F[It was too complicated for just read, so I translated it, for my own AI treasure]
-    G --> H[I restored and developed the mainly outdated and damaged examples: base NN example, Bert, transfer learning, GAN, and so on]
-    H --> I[Deeper understanding of the basic tools, components of AI: NN, Learning rate, Optimalisation, activation, ]
-    J[Apache Airflow] --> E
-    E --> K[MLflow]
+    G --> H[It was too complicated for just read, so I translated it, for my own AI treasure]
+    I --> J[I restored and developed the mainly outdated and damaged examples: base NN example, Bert, transfer learning, GAN, and so on]
+    J --> K[Deeper understanding of the basic tools, components of AI: NN, Learning rate, Optimalisation, activation, ]
+    
 ```
